@@ -1,0 +1,14 @@
+.post-card {
+  max-width: 600px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.post-image {
+  height: 300px;
+  object-fit: cover;
+}
+
+.MuiCardContent-root:last-child {
+  padding-bottom: 16px;
+}
